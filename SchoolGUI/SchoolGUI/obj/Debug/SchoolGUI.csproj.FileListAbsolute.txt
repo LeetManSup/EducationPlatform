@@ -1,0 +1,213 @@
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe.config
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.pdb
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\App.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.cache
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.lref
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.g.resources
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.Properties.Resources.resources
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.pdb
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.baml
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.g.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe.config
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.pdb
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\App.g.cs
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.cache
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.lref
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.baml
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.g.resources
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.Properties.Resources.resources
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Desktop\Курсовая (архив)\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.pdb
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe.config
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\SchoolGUI.pdb
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.dll
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\Npgsql.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Buffers.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Memory.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Text.Json.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\bin\Debug\System.ValueTuple.xml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.AssemblyReference.cache
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\RegisterWindow.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentInfoPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentMistakesPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentStatsPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentPages\StudentTasksPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherMainWindow.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherAddPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherEditPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherInfoPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherStudentsPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\TeacherPages\TeacherTasksPage.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\App.g.cs
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.cache
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI_MarkupCompile.lref
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\LogInWindow.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\StudentMainWindow.baml
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.g.resources
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.Properties.Resources.resources
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.GenerateResource.cache
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CoreCompileInputs.cache
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.csproj.CopyComplete
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.exe
+C:\Users\LeetManSup\Desktop\SchoolGUI\SchoolGUI\obj\Debug\SchoolGUI.pdb

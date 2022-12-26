@@ -1,0 +1,20 @@
+﻿SchoolGUI
+
+
+winexe
+C#
+.cs
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\obj\Debug\
+SchoolGUI
+none
+false
+DEBUG;TRACE
+C:\Users\LeetManSup\Documents\Учёба\Программные средства манипулиования данными\Курсовая работа\SchoolGUI\SchoolGUI\App.xaml
+13-1951253603
+
+20888224155
+30-1177771350
+LogInWindow.xaml;RegisterWindow.xaml;StudentMainWindow.xaml;StudentPages\StudentInfoPage.xaml;StudentPages\StudentMistakesPage.xaml;StudentPages\StudentStatsPage.xaml;StudentPages\StudentTasksPage.xaml;TeacherMainWindow.xaml;TeacherPages\TeacherAddPage.xaml;TeacherPages\TeacherEditPage.xaml;TeacherPages\TeacherInfoPage.xaml;TeacherPages\TeacherStudentsPage.xaml;TeacherPages\TeacherTasksPage.xaml;
+
+True
+

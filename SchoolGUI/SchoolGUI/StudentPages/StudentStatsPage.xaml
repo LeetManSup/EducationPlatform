@@ -1,0 +1,41 @@
+﻿<Page x:Class="SchoolGUI.StudentStatsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="340" d:DesignWidth="1280"
+      Title="StudentStatsPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Label Content="Твоя статистика: " FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="White"/>
+        </StackPanel>
+
+        
+        <StackPanel Grid.Row="1" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <Label Content="Рейтинг: " FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="White"/>
+                <Label x:Name="studentstatspage_rating_label" Content="fff" FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="Yellow"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <Label Content="Верных решений: " FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="White"/>
+                <Label x:Name="studentstatspage_solved_label" Content="fff" FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="Green"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <Label Content="Ошибок: " FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="White"/>
+                <Label x:Name="studentstatspage_mistakes_labdel" Content="fff" FontSize="30" FontFamily="Franklin Gothic Medium" Foreground="Red"/>
+            </StackPanel>
+
+
+        </StackPanel>
+    </Grid>
+</Page>
